@@ -1,0 +1,2 @@
+# Checkbox
+Animated checkbox
