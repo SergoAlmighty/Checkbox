@@ -1,2 +1,3 @@
 # Checkbox
-Animated checkbox
+Animated checkbox <br>
+https://sergowicked.github.io/Checkbox/
